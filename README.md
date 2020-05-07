@@ -1,0 +1,2 @@
+# Lane-Detection---CNN
+Convolutional Neural Network is a form of Artificial Neural Network architecture which is used for tasks like image-driven pattern recognition. The paper discusses the use of a UNET model to detect road lanes. A dataset which consists of road lanes and their ground truths as their labels were used to train the model and then the model was tested for a set of customised test image, and the performance was measured in terms of Mean Squared error (MSE) loss.
